@@ -1,4 +1,5 @@
-# BuyAndSell
+# BuyAndSell. 
+## Class Link https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-detail-page?autoplay=true
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
