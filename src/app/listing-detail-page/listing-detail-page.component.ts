@@ -21,3 +21,4 @@ export class ListingDetailPageComponent implements OnInit {
   }
 
 }
+ /* unsa ang ActivatedRoute? "Create a Listing Detail Page video" */
